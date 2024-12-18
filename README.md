@@ -1,0 +1,1 @@
+This repository demonstrates a common TypeScript type error: passing a string argument to a function expecting a number. The `bug.ts` file contains the erroneous code, while `bugSolution.ts` offers a corrected version with improved type handling.  This is a simple but important example of how TypeScript's static typing helps prevent runtime issues.
